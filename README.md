@@ -6,7 +6,7 @@ It is maintained by the DMP group at Max-Planck-Institute for Dynamics of Comple
 NOTE: This library is under construction. At this time, only basic functionality is available, the code is not optimized for performance, only rudimentarily tested, and almost no error-checking is implemented.
 
 # Installation
-This library is presently not available via conda or pip. Simply fork the repository on github.
+This library is presently not available via conda or pip. Simply fork the repository on github, and add the location of KoopmanLib to your python path.
 
 # Dependencies
 numpy, scipy, matplotlib, sklearn, sympy, deeptime
